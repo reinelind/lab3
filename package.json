@@ -9,7 +9,11 @@
   "author": "Vadim Usenko",
   "license": "ISC",
   "dependencies": {
+    "@types/jquery": "^3.3.29",
+    "jquery": "^3.4.1",
     "less": "^3.9.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/bootstrap": "^4.3.0"
+  }
 }
